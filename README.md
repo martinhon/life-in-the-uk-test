@@ -47,7 +47,7 @@ Life in the United Kingdom (3rd edition)
 | _1801_            | Ireland unifies with UK | Union Flag |
 | 1805                | Battle of Trafalgar | Britain navy defeats spanish and france with admiral Nelson |
 | 1815                | Battle of Waterloo | Duke of Wellington defeats Napoleon | 
-| 1833                | Emancipation Act | | 
+| 1833                | Emancipation Act | End of Slavery | 
 | 1837                | Queen Victoria | at the age of 18 will rule for 64 years Victorian age |
 | 1840                | Punch Magazine | satirical magazine |
 | 1846                | Abolishment of Corn Laws | |
