@@ -362,6 +362,8 @@ Life in the United Kingdom (3rd edition)
 | Millennium Stadium | Cardiff | 
 | Maiden Castle | Dorset |
 | York Minster | has windows of stained glass about Bible and Christian saints |
+| Stonehenge | Stone Age monument in Wiltshire |
+| Skara Brae | Stone Age prehistoric Village on Orkney |
 
 ### General Facts ###
 
