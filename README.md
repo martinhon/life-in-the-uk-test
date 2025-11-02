@@ -439,6 +439,7 @@ Devolved administrations
 * Small Claims Procedure - England and wales for values up to £10000 and Northern Ireland and Scotland are £5000. Minor disputes without spending lots of time and money - no solicitors. Judge with both parties in a small room or online at moneyclaim.gov.uk
 
 | Type of Courts | Severity | England, Wales and Northern Ireland | Scotland |
+| --- | --- | --- | --- |
 | Criminal | Minor | Magistrates Court - Unpaid Magistrates are part of community, NI has district Judges and are paid | Justices of the Peace |
 | Criminal | Major | Crown Court - Judge and Jury | Sheriff Court - Sheriff or Sheriff and Jury |
 | Criminal | Murders | | High Court |
