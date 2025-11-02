@@ -8,8 +8,8 @@ Life in the United Kingdom (3rd edition)
 |10,000yrs         | Britain separated | from the continent | 
 | 6,000yrs          | First farmers | come to Britain from South-East Europe |
 | 4,000yrs          | Bronze Age | then becomes Iron Age |
-| 55BC                  | Julius Caesar attempts first Roman led invasion but fails |
-| 43AD                 | Emperor Claudius succesfully invaded Britain |
+| 55BC                  | Failed Roman invasion | Julius Caesar attempts first Roman led invasion but fails |
+| 43AD                 | Successful Roman invasion | Emperor Claudius succesfully invaded Britain |
 | 410                  | Romans end | Roman army leaves to defend Rome and never returns |
 | 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great |
 | 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings and invades Britain |
