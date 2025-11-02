@@ -362,7 +362,7 @@ Life in the United Kingdom (3rd edition)
 | Housesteads | part of Hadrian Wall |
 | Bodant Gardens | Wales |
 | Millennium Stadium | Cardiff | 
-| Maiden Castle | Dorset |
+| Maiden Castle | Dorset - Iron Age hill fort |
 | York Minster | has windows of stained glass about Bible and Christian saints |
 | Stonehenge | Stone Age monument in Wiltshire |
 | Skara Brae | Stone Age prehistoric Village on Orkney |
