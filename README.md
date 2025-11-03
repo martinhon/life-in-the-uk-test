@@ -52,9 +52,9 @@ Life in the United Kingdom (3rd edition)
 | 1840                | Punch Magazine | satirical magazine |
 | 1846                | Abolishment of Corn Laws | |
 | _1851_            | Great Exhibition | in Hyde Park, Crystal Palace |
-| _1853-56_      | Crimean Wars | Britain, France and Turkey fight Russia |
+| _1853-56_      | Crimean Wars | Britain, France and Turkey fight Russia. First conflict that was reported on with photographs. |
 | _1861_            | Ireland famine | |
-| _1899-902_   | Boer Wars | South Africa with Netherlands |
+| _1899-1902_   | Boer Wars | South Africa with Netherlands |
 | 1896                | first public screening of movies | |
 | 1902                | Motor-car racing in the UK started |
 | 1914-18          | WW1 | assassination of Austrian Archduke Franz Ferdinand |
