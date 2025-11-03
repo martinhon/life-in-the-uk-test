@@ -447,7 +447,8 @@ Devolved administrations
 | Criminal | Minor | Magistrates Court - Unpaid Magistrates are part of community, NI has district Judges and are paid | Justices of the Peace |
 | Criminal | Major | Crown Court - Judge and Jury (12pax) | Sheriff Court - Sheriff or Sheriff and Jury (15pax) |
 | Criminal | Murders | | High Court |
-| Civil | Minor | County Court | Court of Session in Edinburgh |
+| Civil | Minor | County Court |  Sheriff Court |
+| Civil | Major | High Court | Court of Session in Edinburgh |
 | Youth | | Youth Court - 3 Trained Magistrates and 1 District Judge, no media or public | Childrens Hearing System | 
 | Youth | Serious | Crown Court | |
 
