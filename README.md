@@ -353,6 +353,7 @@ Life in the United Kingdom (3rd edition)
 | 1998 | 57 mil |
 | 2005 | < 60 mil |
 | 2010 | > 62 mil |
+| 2017 | > 66 mil |
 
 ## Places ##
 
