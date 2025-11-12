@@ -436,6 +436,7 @@ Devolved administrations
     * scrutinise and comment on what the government is doing
     * debate important national issues
 * As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged **18 to 70** can be asked to do this.
+* The Speaker of the House is politically Neutral and voted in by Secret Ballot by other MPs (not by everyone in the UK!), but are still Members of Parliament and still represent their constituency.
 * In November 2012, the public elected Police and Crime Commissioners (PCCs) in England and Wales.
 
 ## Judiciary and Courts ##
