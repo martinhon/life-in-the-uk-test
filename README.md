@@ -273,7 +273,7 @@ Life in the United Kingdom (3rd edition)
 | Hilary Mantel | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
 | Julian Barnes | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
 | - | *BeoWulf* Anglo-Saxon poem |
-| Geoffery Caucher | *Canterbury Tales* |
+| Geoffery Caucher | Wrote poems called the *Canterbury Tales*, telling of Pilgrims that went from London to Canterbury |
 | John Milton | protestant poems inspired by religious views, *Paradise is Lost* |
 | William Shakespeare | playwright and actor and wrote poems and plays (sonnets, poems of 14 lines) |
 | William Wordsworth | poet inspired by nature, *The Daffodils* |
