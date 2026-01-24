@@ -330,7 +330,7 @@ Life in the United Kingdom (3rd edition)
 ## Countries characteristics ##
 
 | Country | Population | Day | Saint | Flower | Food | Capital |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | Wales | 5% | 1st March | St David| Daffodil | welsh cakes (flour dried fruits and spices) | Cardiff |
 | North Ireland | <3% | 17th March | St Patrick | Shamrock | Ulster fry (bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread) | Belfast |
 | England | 84% | 23rd April | St George | Rose | roast beef (served with potatoes, vegetables), Yorkshire puddings, fish and chips, fish and chips | London |
