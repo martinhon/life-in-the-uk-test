@@ -8,7 +8,9 @@ Life in the United Kingdom (3rd edition)
 |10,000yrs         | Britain separated | from the continent | 
 | 6,000yrs          | First farmers | come to Britain from South-East Europe |
 | 4,000yrs          | Bronze Age | then becomes Iron Age |
-| 410                  | Romans end | Roman army(arrived in 43) leaves and never returns |
+| 55BC                  | Failed Roman invasion | Julius Caesar attempts first Roman led invasion but fails |
+| 43AD                 | Successful Roman invasion | Emperor Claudius succesfully invaded Britain |
+| 410                  | Romans end | Roman army leaves to defend Rome and never returns |
 | 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great |
 | 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings and invades Britain |
 | 1215                | Magna Carta | The King is subject to the Law | 
@@ -45,14 +47,14 @@ Life in the United Kingdom (3rd edition)
 | _1801_            | Ireland unifies with UK | Union Flag |
 | 1805                | Battle of Trafalgar | Britain navy defeats spanish and france with admiral Nelson |
 | 1815                | Battle of Waterloo | Duke of Wellington defeats Napoleon | 
-| 1833                | Emancipation Act | | 
+| 1833                | Emancipation Act | End of Slavery | 
 | 1837                | Queen Victoria | at the age of 18 will rule for 64 years Victorian age |
 | 1840                | Punch Magazine | satirical magazine |
 | 1846                | Abolishment of Corn Laws | |
 | _1851_            | Great Exhibition | in Hyde Park, Crystal Palace |
-| _1853-56_      | Crimean Wars | Britain, France and Turkey fight Russia |
+| _1853-56_      | Crimean Wars | Britain, France and Turkey fight Russia. First conflict that was reported on with photographs. |
 | _1861_            | Ireland famine | |
-| _1899-902_   | Boer Wars | South Africa with Netherlands |
+| _1899-1902_   | Boer Wars | South Africa with Netherlands |
 | 1896                | first public screening of movies | |
 | 1902                | Motor-car racing in the UK started |
 | 1914-18          | WW1 | assassination of Austrian Archduke Franz Ferdinand |
@@ -85,6 +87,8 @@ Life in the United Kingdom (3rd edition)
 | 1999                | Scottish Parliament. Hereditary peers lost automatic right to attend the House of Lords, they now elect a few of their memebers. | |
 | 2009                | Britain leaves Iraq | |
 | 2010                | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron |
+| 2016                | Brexit Referendum | |
+| 2020                | UK left the European Union | |
 
 ### History facts ###
 
@@ -269,7 +273,7 @@ Life in the United Kingdom (3rd edition)
 | Hilary Mantel | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
 | Julian Barnes | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
 | - | *BeoWulf* Anglo-Saxon poem |
-| Caucher | *Canterbury Tales* |
+| Geoffery Caucher | Wrote poems called the *Canterbury Tales*, telling of Pilgrims that went from London to Canterbury |
 | John Milton | protestant poems inspired by religious views, *Paradise is Lost* |
 | William Shakespeare | playwright and actor and wrote poems and plays (sonnets, poems of 14 lines) |
 | William Wordsworth | poet inspired by nature, *The Daffodils* |
@@ -314,18 +318,18 @@ Life in the United Kingdom (3rd edition)
 
 | Proportion | Religion | Details |
 | --- | --- | --- |
-| 70%  | Christian |
-| 4%    | Muslim | Eid al-Fitr(end of Ramadan) and Eid ul Adha(remembers that prophet Ibrahim was willing to sacrifice his son) are festivals celebrated by Islam |
-| 2%    | Hindu | celebrates Diwali |
-| 1%    | Sikh | Vaisakhi festival celebrated on 14th of April, also celebrates Diwali |
-| 0.5% | Jews/Buddhist | Hannuka is a Jew celebration in November or December and lasts 8 days |
+| 59%  | Christian |
+| 4.8%    | Muslim | Eid al-Fitr(end of Ramadan) and Eid ul Adha(remembers that prophet Ibrahim was willing to sacrifice his son) are festivals celebrated by Islam |
+| 1.5%    | Hindu | celebrates Diwali |
+| 0.8%    | Sikh | Vaisakhi festival celebrated on 14th of April, also celebrates Diwali |
+| <0.5% | Jews/Buddhist | Hannuka is a Jewish celebration in November or December and lasts 8 days |
 | 2%    | Other |
-| 21%  | No religion |
+| 25%  | No religion |
 
 ### Religion facts ###
 
 * Protestant Christian groups are: Baptists Methodists,  **Presbyterians(Scotland)** and Quakers
-* The Curch of England is known as the **Episcopal** Curch in USA and Scotland
+* The Church of England is known as the **Episcopal** Curch in USA and Scotland
 
 ## Countries characteristics ##
 
@@ -349,6 +353,7 @@ Life in the United Kingdom (3rd edition)
 | 1998 | 57 mil |
 | 2005 | < 60 mil |
 | 2010 | > 62 mil |
+| 2017 | > 66 mil |
 
 ## Places ##
 
@@ -358,9 +363,11 @@ Life in the United Kingdom (3rd edition)
 | Housesteads | part of Hadrian Wall |
 | Bodant Gardens | Wales |
 | Millennium Stadium | Cardiff | 
-| Maiden Castle | Dorset |
+| Maiden Castle | Dorset - Iron Age hill fort |
 | York Minster | has windows of stained glass about Bible and Christian saints |
-
+| Stonehenge | Stone Age monument in Wiltshire |
+| Skara Brae | Stone Age prehistoric Village on Orkney |
+| Sutton Hoo | Anglo-Saxon king burial site in a ship under earth, in Suffolk |
 ### General Facts ###
 
 * 15 national parks in the UK
@@ -406,10 +413,10 @@ Devolved administrations
 
 | Name | Creation | Members | NMembers | Details |
 | --- | --- | --- | --- | --- |
-| National Assembly of Wales | | Assembly members (AMs) | 60 | elections every 4 years, building is Senedd |
-| Scottish Parliament | 1999 | members of the Scottish Parliament (MSPs), elected via proportional representation | 129 | |
-| Northern Ireland Parliament | 1922 |  | | abolished in 1972 |
-| Northern Ireland Assembly | 1998 |  members of the Legislative Assembly (MLAs) meet in the Northern Ireland Assembly at Stormont, Belfast | 108 | |
+| National Assembly of Wales | | Sennedd Members (SMs) | 60 | elections every 4 years, building is Senedd |
+| Scottish Parliament | 1999 | Members of the Scottish Parliament (MSPs) | 129 | |
+| Northern Ireland Parliament | 1922 |  | | Abolished in 1972 |
+| Northern Ireland Assembly | 1998 |  Members of the Legislative Assembly (MLAs) meet in the Northern Ireland Assembly at Stormont, Belfast | 90 | |
 
 ## Government and politics facts ##
 
@@ -429,5 +436,22 @@ Devolved administrations
     * scrutinise and comment on what the government is doing
     * debate important national issues
 * As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged **18 to 70** can be asked to do this.
+* The Speaker of the House is politically Neutral and voted in by Secret Ballot by other MPs (not by everyone in the UK!), but are still Members of Parliament and still represent their constituency.
 * In November 2012, the public elected Police and Crime Commissioners (PCCs) in England and Wales.
+
+## Judiciary and Courts ##
+
+* Police and Crime Commissioners (PCCs) first elected by public in England and Wales in 2015.
+* Small Claims Procedure - England and wales for values up to £10000 and Northern Ireland and Scotland are £5000. Minor disputes without spending lots of time and money - no solicitors. Judge with both parties in a small room or online at moneyclaim.gov.uk
+
+| Type of Courts | Severity | England, Wales and Northern Ireland | Scotland |
+| --- | --- | --- | --- |
+| Criminal | Minor | Magistrates Court - Unpaid Magistrates are part of community, NI has district Judges and are paid | Justices of the Peace |
+| Criminal | Major | Crown Court - Judge and Jury (12pax) | Sheriff Court - Sheriff or Sheriff and Jury (15pax) |
+| Criminal | Murders | | High Court |
+| Civil | Minor | County Court |  Sheriff Court |
+| Civil | Major | High Court | Court of Session in Edinburgh |
+| Youth | | Youth Court - 3 Trained Magistrates and 1 District Judge, no media or public | Childrens Hearing System | 
+| Youth | Serious | Crown Court | |
+
 
