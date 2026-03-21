@@ -1,4 +1,4 @@
-Life in the United Kingdom (3rd edition)
+Life in the United Kingdom
 ----
 
 ## History Dates ##
@@ -12,12 +12,12 @@ Life in the United Kingdom (3rd edition)
 | 43AD                 | Successful Roman invasion | Emperor Claudius succesfully invaded Britain |
 | 410                  | Romans end | Roman army leaves to defend Rome and never returns |
 | 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great |
-| 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings and invades Britain |
+| 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror defeats Harold.  Battle of Hastings and invades Britain |
 | 1215                | Magna Carta | The King is subject to the Law | 
 | 1284                | Statute of Rhuddlan | Kind Edward I annexes Wales |
-| 1314                | Battle of Bannockburn | Robert the Bruce (scots) wins |
+| 1314                | Battle of Bannockburn | Robert the Bruce (scots) defeats England |
 | 1348                | Black Death | kills 1/3 of population. After which new class "the gentry" appeared, owners of large areas of land  |
-| 1415                | Battle of Agincourt | Henry V wins during the 100 years war against France |
+| 1415                | Battle of Agincourt | Henry V defeats France during the 100 years war against France |
 | 1455                | start of civil war | houses Lanacaster (red rose) and York (white rose) |
 | 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, Henry VII Tudor king, end of Middle Ages, start of the Reformation |
 | 1560                | Scottish abolish the Pope | |
@@ -25,7 +25,7 @@ Life in the United Kingdom (3rd edition)
 | 1603                | James I | End of the Tudor period, James VI of Scotland becomes king |
 | 1605                | Guy Fawkes | with catholics tries to bomb the Parliament to kill the protestant king on 5th of November |
 | 1642                | Civil war | after Charles I asked Parliament for money, Cavaliers(king) and Roundheads(parliament) |
-| 1646                | End of Civil war | Battle of Marston Moor (also Battle of Naseby) where the king's army is defeated |
+| 1646                | End of Civil war | Battle of Marston Moor (also Battle of Naseby). Parliament defeats the CharlesI |
 | 1649                | Britain republic | after Charles I is executed |
 | 1656                | fist Jews in England | since the Middle Ages |
 | 1658                | Lord Protector Oliver Cromwell dies | |
@@ -35,7 +35,7 @@ Life in the United Kingdom (3rd edition)
 | _1679_            | Habeas Corpus | you must present the person in court |
 | _1685_            | James II | was James VII of Scotland, becomes king after Charles II dies |
 | 1689                | Glorious Revolution | William of Orange invades England | 
-| _1690_            | Battle of Byone | James flees to France with Jacobites supporters |
+| _1690_            | Battle of Byone | William III defeats James II. James flees to France with Jacobites supporters |
 | 1689                | Bill of Rights | more control on the King, constitutional monarchy |
 | 1695                | Newspaper | can operate without government licence |
 | 1707                | Act of Union | Kingdom of Great Britain is created joining Scotland |
@@ -45,7 +45,7 @@ Life in the United Kingdom (3rd edition)
 | 1783                | Britain recognise independence | |
 | _1789_            | Revolution in France | Napoleon starts war |
 | _1801_            | Ireland unifies with UK | Union Flag |
-| 1805                | Battle of Trafalgar | Britain navy defeats spanish and france with admiral Nelson |
+| 1805                | Battle of Trafalgar | Lord Horatio Nelson (Admiral Nelson)  defeats spanish fleet and France. Nelson dies |
 | 1815                | Battle of Waterloo | Duke of Wellington defeats Napoleon | 
 | 1833                | Emancipation Act | End of Slavery | 
 | 1837                | Queen Victoria | at the age of 18 will rule for 64 years Victorian age |
@@ -160,7 +160,7 @@ Life in the United Kingdom (3rd edition)
 | Sir Ian Wilmot and Keith Campbell | led the team the achieved **cloning** of sheep Dolly | 1944-,1954-2012 |
 | Sir Peter Mansfield | co-inventor of **MRI (magnetic resonance imaging)** scanner | 1933- |
 | Sir Tim Berners-Lee | invented **World Wide Web** in 1990 | 1955- |
-| Mary Peters | from Manchester won a pentathlon Olympic medal in 1972, supports Northen Ireland | 1939- |
+| Mary Peters | from Manchester won a **pentathlon** Olympic medal in 1972, supports Northen Ireland | 1939- |
 | Margaret Thatcher | Conservative MP in 1959, became first woman PM in 1979, worked close with Ronald Regan and helped end Cold War | 1925-2013 |
 | Roald Dahl | born in Wales from Norwegians wrote *Charlie and the Chocolate Factory* and *George's Marvellous Medicine* | 1916-90 |
 | James Cook | maps the coast of Australia |
@@ -181,12 +181,12 @@ Life in the United Kingdom (3rd edition)
 | Dame Kelly Holmes | won 2 gold medals for running in 2004 Olympics |
 | Dame Ellen MacArthur | yachtswoman fastest person to sail around the world in 2014 |
 | Sir Chris Hoy | Scottish cyclist that won 6 gold and 1 silver Olympic medals and 11 world championships |
-| David Weir | Paralympian with wheelchair has won 6 gold medals and London marathon 6 times |
+| David Weir | **Paralympian** with wheelchair has won 6 gold medals and London marathon 6 times |
 | Sir Bradley Wiggings | cyclist, first briton to win the tour de france in 2012, won 7 olympic medals including golds in 2004,2008 and 2012 |
 | Mo Farah | won gold medals in 2012 Olympics , first briton to win a medal in 10,000 metres |
 | Jessica Ennis | won 2012 Olympic heptathlon |
 | Andy Murray | Scottish tennis player won men's singles in US open in 2012, he won gold and silver medals at the Olympics |
-| Ellie Simmonds | Paralympian won gold medals for swimming at 2008 and 2012 Paralympic Games, was the youngest member at the 2008 Games |
+| Ellie Simmonds | **Paralympian** won gold medals for swimming at 2008 and 2012 Paralympic Games, was the youngest member at the 2008 Games |
 | Sir Francis Chichester | first person to sail single-handed around the world in 1966/67 |
 | Sir Robin Knox-Johnston | first person to sail single-handed around the world without stopping |
 | Damon Hill | won the Formula 1 World Championship |
@@ -335,9 +335,9 @@ Life in the United Kingdom (3rd edition)
 
 | Country | Population | Day | Saint | Flower | Food | Capital |
 | --- | --- | --- | --- | --- | --- | --- |
-| Wales | 5% | 1st March | St David| Daffodil | welsh cakes (flour dried fruits and spices) | Cardiff |
-| North Ireland | <3% | 17th March | St Patrick | Shamrock | Ulster fry (bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread) | Belfast |
 | England | 84% | 23rd April | St George | Rose | roast beef (served with potatoes, vegetables), Yorkshire puddings, fish and chips, fish and chips | London |
+| Wales | 5% | 1st March | St David| Daffodil | welsh cakes (flour dried fruits and spices) | Cardiff |
+| North Ireland | <3% | 17th March | St Patrick | Shamrock | Ulster fry (bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread) | Belfast |j
 | Scotland | 8% | 30th November | St Andrew | Thisle | haggis (sheep's stomach stuffed with offal, suet, onions and oatmeal) | Edinburg |
 
 ### Numbers ###
