@@ -51,6 +51,7 @@ Life in the United Kingdom
 | 1837                | Queen Victoria | at the age of 18 will rule for 64 years Victorian age |
 | 1840                | Punch Magazine | satirical magazine |
 | 1846                | Abolishment of Corn Laws | |
+| 1847                | Factories Act | limited women and children could work to 10 hours per day |
 | _1851_            | Great Exhibition | in Hyde Park, Crystal Palace |
 | _1853-56_      | Crimean Wars | Britain, France and Turkey fight Russia. First conflict that was reported on with photographs. |
 | _1861_            | Ireland famine | |
