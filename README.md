@@ -29,14 +29,14 @@ Life in the United Kingdom
 | 1649                | Britain republic | after Charles I is executed |
 | 1656                | fist Jews in England | since the Middle Ages |
 | 1658                | Lord Protector Oliver Cromwell dies | |
-| 1660                | Charles II comes back to be king | (he hid in an oak tree after defeated in Battle of Dunbar in Worcester), ends of 11 years of republic, The Restoration |
+| 1660                | Restoration  | (Charles II comes back. He hides in an oak tree after defeated in Battle of Dunbar in Worcester), ends of 11 years of republic, The Restoration |
 | 1665                | Plague | |
 | 1666                | Great Fire | |
 | _1679_            | Habeas Corpus | you must present the person in court |
 | _1685_            | James II | was James VII of Scotland, becomes king after Charles II dies |
-| 1689                | Glorious Revolution | William of Orange invades England | 
+| 1688                | Glorious Revolution | William of Orange (William III) and Mary becomes Kings. No fighting | 
+| 1689                | Bill of Rights | confirm the rights of Paliament, limits of King's power, constitutional monarchy |
 | _1690_            | Battle of Byone | William III defeats James II. James flees to France with Jacobites supporters |
-| 1689                | Bill of Rights | more control on the King, constitutional monarchy |
 | 1695                | Newspaper | can operate without government licence |
 | 1707                | Act of Union | Kingdom of Great Britain is created joining Scotland |
 | 1714                | King George I | a german is king, because of his poor english elects Robert Walpole as first Prime Minister |
@@ -74,7 +74,7 @@ Life in the United Kingdom
 | 1945                | Labour Government | Clement Attlee is PM, nationalisation of industries and strong welfare |
 | 1947                | colonies independent | Britain give independence to 9 countries, including India, Pakistan and Ceylon(Sri Lanka) |
 | 1948                | NHS | by minister Aneurin (Nye) Bevan |
-| 1949                | Republic of Ireland | |C
+| 1949                | Republic of Ireland | Ireland becomes a republic |
 | 1951-64          | Conservative Government | probably in this period Beveridge report (Social Insurance and Allied Services)  and Butler with free secondary education |
 | 1957                | EEC | European Economic Community |
 | 1959                | Margaret Thatcher | is MP, becomes leader of opposition in 1975 |
@@ -413,10 +413,10 @@ Devolved administrations
 
 | Name | Creation | Members | NMembers | Details |
 | --- | --- | --- | --- | --- |
-| National Assembly of Wales | | Sennedd Members (SMs) | 60 | elections every 4 years, building is Senedd |
-| Scottish Parliament | 1999 | Members of the Scottish Parliament (MSPs) | 129 | |
+| National Assembly of Wales | | Senedd Members (SMs) | 60 | elections every 4 years, building is Senedd, Caddiff Bay |
 | Northern Ireland Parliament | 1922 |  | | Abolished in 1972 |
-| Northern Ireland Assembly | 1998 |  Members of the Legislative Assembly (MLAs) meet in the Northern Ireland Assembly at Stormont, Belfast | 90 | |
+| Northern Ireland Assembly | 1998 |  Members of the Legislative Assembly (MLAs) meet in the Northern Ireland Assembly at Stormont, Belfast | 90 | Stormont, Belfast |
+| Scottish Parliament | 1999 | Members of the Scottish Parliament (MSPs) | 129 | at Holyrood, Edinburgh |
 
 ## Government and politics facts ##
 
