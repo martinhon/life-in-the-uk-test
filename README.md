@@ -20,26 +20,30 @@ Life in the United Kingdom
 | 1415                | Battle of Agincourt | Henry V defeats France during the 100 years war against France |
 | 1455                | start of civil war | houses Lanacaster (red rose) and York (white rose) |
 | 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, Henry VII Tudor king, end of Middle Ages, start of the Reformation |
+| 1558                | **Elizabeth I** | Elizabeth becomes Queen after bloody Mary |
 | 1560                | Scottish abolish the Pope | |
 | 1588                | Spanish Armada | Elizabeth I defeats spanish invasion to convert to Catholicism |
-| 1603                | James I | End of the Tudor period, James VI of Scotland becomes king |
+| 1603                | **James I** | End of the Tudor period, James VI of Scotland becomes king |
 | 1605                | Guy Fawkes | with catholics tries to bomb the Parliament to kill the protestant king on 5th of November |
+| 1625                | **Charle I** | The son of James I, Charle becomes King |
 | 1642                | Civil war | after Charles I asked Parliament for money, Cavaliers(king) and Roundheads(parliament) |
 | 1646                | End of Civil war | Battle of Marston Moor (also Battle of Naseby). Parliament defeats the CharlesI |
 | 1649                | Britain republic | after Charles I is executed |
 | 1656                | fist Jews in England | since the Middle Ages |
 | 1658                | Lord Protector Oliver Cromwell dies | |
-| 1660                | Restoration  | (Charles II comes back. He hides in an oak tree after defeated in Battle of Dunbar in Worcester), ends of 11 years of republic, The Restoration |
+| 1660                | Restoration **Charle II**  | (Charles II comes back. He hides in an oak tree after defeated in Battle of Dunbar in Worcester), ends of 11 years of republic, The Restoration |
 | 1665                | Plague | |
 | 1666                | Great Fire | |
 | _1679_            | Habeas Corpus | you must present the person in court |
-| _1685_            | James II | was James VII of Scotland, becomes king after Charles II dies |
-| 1688                | Glorious Revolution | William of Orange (William III) and Mary becomes Kings. No fighting | 
+| _1685_            | **James II** | was James VII of Scotland, becomes king after Charles II dies |
+| 1688                | Glorious Revolution **William and Mary** | William of Orange (William III) and Mary becomes Kings. No fighting | 
 | 1689                | Bill of Rights | confirm the rights of Paliament, limits of King's power, constitutional monarchy |
 | _1690_            | Battle of Byone | William III defeats James II. James flees to France with Jacobites supporters |
 | 1695                | Newspaper | can operate without government licence |
+| 1702               | **Queen Ann** | Anne becomes Queen upnon the dealth of her brother-in-law King William III |
 | 1707                | Act of Union | Kingdom of Great Britain is created joining Scotland |
-| 1714                | King George I | a german is king, because of his poor english elects Robert Walpole as first Prime Minister |
+| 1714                | **King George I** | a german is king, because of his poor english elects Robert Walpole as first Prime Minister |
+| 1727               | **King George II** | the son of King George I becomes king |
 | 1745-46           | Bonnie Prince Charlie | tries to get the throne with scots' help but looses at the battle of Culloden, after which Highland Cleareances |
 | 1776                | American colonies independence | 13 colonies declare independence from UK | 
 | 1783                | Britain recognise independence | |
