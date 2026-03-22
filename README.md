@@ -35,14 +35,14 @@ Life in the United Kingdom
 | 1588                | Spanish Armada | Elizabeth I defeats spanish invasion to convert to Catholicism |
 | 1603                | **James I** | End of the Tudor period, James VI of Scotland becomes king |
 | 1605                | Guy Fawkes | with catholics tries to bomb the Parliament to kill the protestant king on 5th of November |
-| 1625                | **Charle I** | The son of James I, Charle becomes King |
+| 1625                | **Charles I** | The son of James I, Charles becomes King |
 | 1642                | Civil war | after Charles I asked Parliament for money, Cavaliers(king) and Roundheads(parliament) |
 | 1646                | End of Civil war | **Battle of Marston Moor** (also **Battle of Naseby**). Parliament defeats the Charles I |
-| 1649                | Britain republic. **Oliver Coromwell** | Charles I is executed |
+| 1649                | Britain republic. **Oliver Cromwell** | Charles I is executed |
 | 1650                | **Battles of Dunbar and Worcester** | Cromwell defeated Scots who had not agreed to the execution of Charles I, Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe |
 | 1656                | first Jews to Britan | The first Jews to come to Britain since the Middle Ages settled in London in 1656 |
 | 1658                | Lord Protector Oliver Cromwell dies | |
-| 1660                | Restoration **Charle II**  | Charle II comes back, ends of 11 years of republic, The Restoration |
+| 1660                | Restoration **Charles II**  | Charles II comes back, ends of 11 years of republic, The Restoration |
 | 1665                | Plague | |
 | 1666                | Great Fire | |
 | 1679            | Habeas Corpus Art | you must present the person in court |
@@ -146,7 +146,7 @@ Life in the United Kingdom
 | Charles II | comes back to be king, interested in science forms Royal Society | -1685 |
 | Sir Edmund Halley | member of Royal Society, predicts the return of the Halley's Comet | - |
 | Isaac Newton | studied at Cambridge, work on Philosophiae Naturalis Principia Mathematica | 1643-1727 |
-| James II | brother of CharlesII he is VII of Scotland, favour Catholics | - |
+| James II | brother of Charles II he is VII of Scotland, favour Catholics | - |
 | William of Orange | husband of Mary elder of the King, invades England defeats James that flees to France, Bills of Rights | - |
 | George I | a german becomes king | 1714- |
 | Robert Walpole | **first prime minister** under George I | 1721-42 |
