@@ -5,9 +5,9 @@ Life in the United Kingdom
 
 | When | What | Details |
 | ---        | ---       | --- |
-|10,000yrs         | Britain separated | from the continent | 
+|10,000yrs         | Britain separated, hunter-gatheres | from the continent  | 
 | 6,000yrs          | First farmers | come to Britain from South-East Europe |
-| 4,000yrs          | Bronze Age | then becomes Iron Age |
+| 4,000yrs          | Bronze Age | then becomes Iron Age, live in roundhouse, dead in roundbarrows |
 | 55BC                  | Failed Roman invasion | Julius Caesar attempts first Roman led invasion but fails |
 | 43AD                 | Successful Roman invasion | Emperor Claudius succesfully invaded Britain |
 | 410                  | Romans end | Roman army leaves to defend Rome and never returns |
@@ -19,8 +19,11 @@ Life in the United Kingdom
 | 1348                | Black Death | kills 1/3 of population. After which new class "the gentry" appeared, owners of large areas of land  |
 | 1415                | Battle of Agincourt | Henry V defeats France during the 100 years war against France |
 | 1455                | start of civil war | houses Lanacaster (red rose) and York (white rose) |
-| 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, Henry VII Tudor king, end of Middle Ages, start of the Reformation |
-| 1558                | **Elizabeth I** | Elizabeth becomes Queen after bloody Mary |
+| 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, **Henry VII Tudor king**, end of Middle Ages, start of the Reformation |
+| 1509                | **Henry VIII** | son of Henry VII becomes king |
+| 1547                | **Edward VI** |  |
+| 1553                | **Mary I** | Bloody Mary |
+| 1558                | **Elizabeth I** | Elizabeth becomes Queen. Francis Drake defeats Spanish Armada |
 | 1560                | Scottish abolish the Pope | |
 | 1588                | Spanish Armada | Elizabeth I defeats spanish invasion to convert to Catholicism |
 | 1603                | **James I** | End of the Tudor period, James VI of Scotland becomes king |
@@ -28,13 +31,13 @@ Life in the United Kingdom
 | 1625                | **Charle I** | The son of James I, Charle becomes King |
 | 1642                | Civil war | after Charles I asked Parliament for money, Cavaliers(king) and Roundheads(parliament) |
 | 1646                | End of Civil war | Battle of Marston Moor (also Battle of Naseby). Parliament defeats the CharlesI |
-| 1649                | Britain republic | after Charles I is executed |
+| 1649                | Britain republic. **Oliver Coromwell** | Charles I is executed |
 | 1656                | fist Jews in England | since the Middle Ages |
 | 1658                | Lord Protector Oliver Cromwell dies | |
 | 1660                | Restoration **Charle II**  | (Charles II comes back. He hides in an oak tree after defeated in Battle of Dunbar in Worcester), ends of 11 years of republic, The Restoration |
 | 1665                | Plague | |
 | 1666                | Great Fire | |
-| _1679_            | Habeas Corpus | you must present the person in court |
+| 1679            | Habeas Corpus Art | you must present the person in court |
 | _1685_            | **James II** | was James VII of Scotland, becomes king after Charles II dies |
 | 1688                | Glorious Revolution **William and Mary** | William of Orange (William III) and Mary becomes Kings. No fighting | 
 | 1689                | Bill of Rights | confirm the rights of Paliament, limits of King's power, constitutional monarchy |
@@ -52,7 +55,7 @@ Life in the United Kingdom
 | 1805                | Battle of Trafalgar | Lord Horatio Nelson (Admiral Nelson)  defeats spanish fleet and France. Nelson dies |
 | 1815                | Battle of Waterloo | Duke of Wellington defeats Napoleon | 
 | 1833                | Emancipation Act | End of Slavery | 
-| 1837                | Queen Victoria | at the age of 18 will rule for 64 years Victorian age |
+| 1837                | **Queen Victoria** | at the age of 18 will rule for 64 years Victorian age |
 | 1840                | Punch Magazine | satirical magazine |
 | 1846                | Abolishment of Corn Laws | |
 | 1847                | Factories Act | limited women and children could work to 10 hours per day |
@@ -61,7 +64,9 @@ Life in the United Kingdom
 | _1861_            | Ireland famine | |
 | _1899-1902_   | Boer Wars | South Africa with Netherlands |
 | 1896                | first public screening of movies | |
+| 1901                | **Edward VII** | son of Victoria becomes king |
 | 1902                | Motor-car racing in the UK started |
+| 1910                | **George V** | son of Edward VII becomes king |
 | 1914-18          | WW1 | assassination of Austrian Archduke Franz Ferdinand |
 | 1918                | end of the WW1 on 11th of November, also women can vote at the age of 30 |
 | 1922                | Ireland becomes 2 countries / BBC radio | 6 protestant countries the rest is Irish Free State |
@@ -70,7 +75,7 @@ Life in the United Kingdom
 | 1930s              | Touring Machine | |
 | 1932                | invention of TV | by scotsman John Logie Baird |
 | 1935                | invention of Radar | by Sir Robert Watson-Watt |
-| 1936                | BBC first TV service | |
+| 1936                | BBC first TV service, **Edward VIII** quickly then **George VI** | sons of George V |
 | 1939                | WW2 | Germany invades Poland |
 | 1940                | Battle of Britain | aerial battle to fight "The Blitz" of german bombing UK |
 | _1940-44_     | The Dunkirk Spirit | evacuation of British and French troops as France falls, rescuing 300,000 people |
@@ -81,6 +86,7 @@ Life in the United Kingdom
 | 1948                | NHS | by minister Aneurin (Nye) Bevan |
 | 1949                | Republic of Ireland | Ireland becomes a republic |
 | 1951-64          | Conservative Government | probably in this period Beveridge report (Social Insurance and Allied Services)  and Butler with free secondary education |
+| 1952                | **Elizaberth II** | daughter of George VI. Queen Elizaberth 1952-2022 |
 | 1957                | EEC | European Economic Community |
 | 1959                | Margaret Thatcher | is MP, becomes leader of opposition in 1975 |
 | 1969                | The Troubles | in Northen Ireland, , 3000 people died those years, women and men can vote at 18 |
@@ -94,6 +100,7 @@ Life in the United Kingdom
 | 2010                | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron |
 | 2016                | Brexit Referendum | |
 | 2020                | UK left the European Union | |
+| 2022                | **Charles III** | son of Elizaberth II  |
 
 ### History facts ###
 
