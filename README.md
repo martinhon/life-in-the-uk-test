@@ -9,7 +9,7 @@ Life in the United Kingdom
 | 6,000yrs          | First farmers | come to Britain from South-East Europe |
 | 4,000yrs          | Bronze Age | then becomes Iron Age, live in roundhouse, dead in roundbarrows |
 | 55BC                  | Failed Roman invasion | Julius Caesar attempts first Roman led invasion but fails |
-| 43AD                 | Successful Roman invasion | Emperor Claudius succesfully invaded Britain |
+| 43AD                 | Successful Roman invasion | Emperor Claudius succesfully invaded Britain. Boudicca was a tribal leader who fought the Roman, Emperor Hadrain built a wall|
 | 410                  | Romans end | Roman army leaves to defend Rome and never returns |
 | 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great |
 | 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror defeats Harold.  Battle of Hastings and invades Britain |
