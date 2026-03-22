@@ -32,7 +32,7 @@ Life in the United Kingdom
 | 1558                | **Elizabeth I** | Elizabeth becomes Queen. Francis Drake defeats Spanish Armada |
 | 1560                | Scottish abolish the Pope | |
 | 1588                | Spanish Armada | Elizabeth I defeats spanish invasion to convert to Catholicism |
-| 1603                | **James I** | End of the Tudor period, James VI of Scotland becomes king |
+| 1603                | **James VI and I** | End of the Tudor period, James VI of Scotland becomes king James I of England, James I and his son Charles I were less skilled politically. Both believed in the ‘Divine Right of Kings’. However, one achievement was translation of Bible into English known as King James Versio or Authorised Version |
 | 1605                | Guy Fawkes | with catholics tries to bomb the Parliament to kill the protestant king on 5th of November |
 | 1625                | **Charles I** | The son of James I, Charles becomes King |
 | 1642                | Civil war | after Charles I asked Parliament for money, Cavaliers(king) and Roundheads(parliament) |
