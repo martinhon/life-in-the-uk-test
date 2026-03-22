@@ -18,7 +18,6 @@ Life in the United Kingdom
 | 1215                | Magna Carta | The King is subject to the Law | 
 | 1284                | Statute of Rhuddlan | Kind Edward I annexes Wales |
 | 1314                | **Battle of Bannockburn** | Robert the Bruce, King of Scotland, defeated the English, maintaining Scottish independence |
-| 1135 -              | Stephen,... | Between 1135 and 1327, the Kings of England were primarily from the House of Blois and the House of Plantagenet (including the Angevin line) |
 | 1327                | Edward III |  |
 | 1348                | Black Death | kills 1/3 of population. After which new class "the gentry" appeared, owners of large areas of land  |
 | 1377                | Richard II |  |
@@ -51,7 +50,7 @@ Life in the United Kingdom
 | 1689                | Bill of Rights | confirm the rights of Paliament, limits of King's power, constitutional monarchy |
 | _1690_            | **Battle of Byone** | William III defeats James II. James flees to France with Jacobites supporters |
 | 1695                | Newspaper | can operate without government licence |
-| 1702               | **Queen Ann** | Anne becomes Queen upnon the dealth of her brother-in-law King William III |
+| 1702               | **Queen Anne** | Anne becomes Queen upnon the dealth of her brother-in-law King William III |
 | 1707                | Act of Union | Kingdom of Great Britain is created joining Scotland |
 | 1714                | **King George I** | a german is king, because of his poor english elects Robert Walpole as first Prime Minister |
 | 1727               | **King George II** | the son of King George I becomes king |
