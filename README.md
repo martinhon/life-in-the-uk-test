@@ -122,7 +122,7 @@ Life in the United Kingdom
 | William (Duke of Normandy) | Defeats saxon King Harold, **Doomsday Book** | 1066 |
 | King John | **Magna Carta** | 1215 |
 | Kind Edward I | **Statute of Rhuddlan** | 1284 |
-| Robert The Bruce | defeats english Battle of Bannockburn | 1314 |
+| Robert the Bruce | the Scottish led by Robert the Bruce defeats english Battle of Bannockburn , Scotland remained unconquered by the English | 1314 |
 | King Henry V | beats French in Battle of Agincourt | 1415 |
 | Henry Tudor VII | wins War of the Roses | 1485 |
 | Henry VIII | 6 wives (Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, Catherine Perr) | 1509-47 |
