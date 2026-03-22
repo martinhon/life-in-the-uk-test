@@ -149,12 +149,12 @@ Life in the United Kingdom
 | Sake Dean Mahomet | first **Curry House** in London and **Shampooing** (Indian head massage) | 1759-1851 |
 | Admiral Nelson | wins **Battle of Trafalgar Square** but dies in it | 1805 | 
 | Queen Victoria | Victorian period, biggest empire | 1837-1901 |
-| Isambard Kingdom Brunel | engineer started Great Western Railways and built bridges | 1806-59 |
+| Isambard Kingdom Brunel | engineer started **Great Western Railways** and built bridges | 1806-59 |
 | Florence Nightingale | **nurse** in Crimean Wars started nursery school in London | 1820-1910 |
 | Emmeline Pakhurst | **suffragettes**, movement for right to vote to women, in 1918 women of 30 could vote and go to parliament,  in1928 women could vote at 21 like men | 1858-928 |
 | Rudyard Kipling | write poems about India and UK, British Empire is a force for good, wrote **The Jungle Book** | 1865-1936 |
 | Winston Churchill | Conservative MP and then PM during the war, lost general election in 1945, but returned as PM in 1951  | 1874-1965 |
-| Alexander Fleming | discovers **penicillin** nobel prize in 1945 | 1881-1955 |
+| Alexander Fleming | discovers antibiotics **penicillin** nobel prize in 1945 | 1881-1955 |
 | Clement Attlee | PM of Labour government after war, nationalisation of industries and strong welfare | 1883-1967 |
 | William Beveridge | Social insurance and Allied Services, **The Beveridge Report** | 1879-1963 |
 | R. A. Butler |*The Butler Act*, free secondary education | 1902-82 |
@@ -183,27 +183,27 @@ Life in the United Kingdom
 
 | Name | Achievement |
 | --- | --- |
-| Sir Roger Bannister | first men to rin a 1 mile in less than 4 minutes |
+| Sir Roger Bannister | first men to **run** a 1 mile in less than 4 minutes |
 | Sir Jackie Stewart | scottish racing driver won Formula 1 3 times |
-| Bobby Moore | captain the English football team winning the 1966 world cup |
+| Bobby Moore | captain the English **football** team winning the 1966 world cup |
 | Sir Ian Botham | capitan of English Cricket team and winner of cricket records |
-| Jayne Torvill and Christopher Dean | won gold medal in ice dancing at Olympics in 1984 |in 5 consecutive Olympics |
-| Sir Steve Redgrave | won gold medals in rowing in 5 consecutive Olympics |
-| Baroness Tanni Grey-Thompson | wheelchair records, 11 gold medals |
+| Jayne Torvill and Christopher Dean | won gold medal in **ice dancing** at Olympics in 1984 |in 5 consecutive Olympics |
+| Sir Steve Redgrave | won gold medals in **rowing** in 5 consecutive Olympics |
+| Baroness Tanni Grey-Thompson | **Paralympian** **wheelchair** records, 11 gold medals |
 | Dame Kelly Holmes | won 2 gold medals for running in 2004 Olympics |
 | Dame Ellen MacArthur | yachtswoman fastest person to sail around the world in 2014 |
 | Sir Chris Hoy | Scottish cyclist that won 6 gold and 1 silver Olympic medals and 11 world championships |
-| David Weir | **Paralympian** with wheelchair has won 6 gold medals and London marathon 6 times |
+| David Weir | **Paralympian** with **wheelchair** has won 6 gold medals and London marathon 6 times |
 | Sir Bradley Wiggings | cyclist, first briton to win the tour de france in 2012, won 7 olympic medals including golds in 2004,2008 and 2012 |
 | Mo Farah | won gold medals in 2012 Olympics , first briton to win a medal in 10,000 metres |
 | Jessica Ennis | won 2012 Olympic heptathlon |
 | Andy Murray | Scottish tennis player won men's singles in US open in 2012, he won gold and silver medals at the Olympics |
-| Ellie Simmonds | **Paralympian** won gold medals for swimming at 2008 and 2012 Paralympic Games, was the youngest member at the 2008 Games |
+| Ellie Simmonds | **Paralympian** won gold medals for **swimming** at 2008 and 2012 Paralympic Games, was the youngest member at the 2008 Games |
 | Sir Francis Chichester | first person to sail single-handed around the world in 1966/67 |
 | Sir Robin Knox-Johnston | first person to sail single-handed around the world without stopping |
-| Damon Hill | won the Formula 1 World Championship |
-| Lewis Hamilton | won the Formula 1 World Championship |
-| Jensen Button | won the Formula 1 World Championship |
+| Damon Hill | won the Formula 1 World Championship, motor sport |
+| Lewis Hamilton | won the Formula 1 World Championship, motor sport |
+| Jensen Button | won the Formula 1 World Championship, motor sport |
 
 ### Sport facts ###
 * The UK has hosted the Olympic Games on three occasions: **1908, 1948 and 2012** 
@@ -241,9 +241,9 @@ Life in the United Kingdom
 | Name | Achievement |
 | --- | --- |
 | William the Conqueror | ordered to build the Tower of London |
-| Sir Christopher Wren | St Paul's Cathedral |
+| Sir Christopher Wren | **St Paul's Cathedral** |
 | Robert Adam | Scottish architect Dumfries House in Scotland, influences the Royal Crescent in Bath |
-| Sir Edwin Lutyens | designed New Delhi, responsible for the memorial Cenotaph in Whitehall |
+| Sir Edwin Lutyens | designed New Delhi, responsible for the memorial **Cenotaph** in Whitehall |
 | Sir Norman Foster | modern British architect |
 | Lord (Richard) Rogers | modern British architect |
 | Dame Zaha Hadid | modern British architect |
@@ -255,7 +255,7 @@ Life in the United Kingdom
 | Name | Achievement |
 | --- | --- |
 | Thomas Chippendale | designed forniture in the 18th century |
-| Clarice Cliff | designed Art Deco ceramics |
+| Clarice Cliff | designed **Art Deco ceramics** |
 | Sir Terence Conran | a 20th century interior designer |
 | Mary Quant | leading fashion designer |
 | Alexander McQueen | leading fashion designer |
@@ -287,7 +287,7 @@ Life in the United Kingdom
 | - | *BeoWulf* Anglo-Saxon poem |
 | Geoffery Caucher | Wrote poems called the *Canterbury Tales*, telling of Pilgrims that went from London to Canterbury |
 | John Milton | protestant poems inspired by religious views, *Paradise is Lost* |
-| William Shakespeare | playwright and actor and wrote poems and plays (sonnets, poems of 14 lines) |
+| William Shakespeare | playwright and actor and wrote poems and plays (sonnets, poems of 14 lines) *A midsummer Night's Dream*, *Hamlet*, *Macbeth*, *Romeo and Juliet* |
 | William Wordsworth | poet inspired by nature, *The Daffodils* |
 | Sir Walter Scott | poems inspired by Scotland |
 | Robert Browning | *Home Thoughts from Abroad* |
@@ -305,11 +305,11 @@ Life in the United Kingdom
 
 | Name | Achievement |
 | --- | --- |
-| Colin Firth | Oscar winner |
-| Sir Anthony Hopkins | Oscar winner |
 | Dame Judi Dench | Oscar winner |
 | Kate Winslet | Oscar winner |
 | Tilda Swinton | Oscar winner |
+| Colin Firth | Oscar winner |
+| Sir Anthony Hopkins | Oscar winner |
 | Sir Alfred Hitchcock | famous director, *The 39 steps* |
 | David Lean | directed *Brief encounter* and *Lawrence of Arabia* |
 | Carol Reed | directed *The Third Man* |
@@ -320,7 +320,7 @@ Life in the United Kingdom
 | Roland Joffe | directed *The Killing Fields* |
 | Mike Newell | directed *Four Weddings and a Funeral* |
 | Kevin MacDonald | directed *Touching the void* |
-| Nik Park | *Wallace and Gromit* animated movies |
+| Nick Park | *Wallace and Gromit* animated movies |
 
 ### Cinema facts ###
 * Recent British actors to have won Oscars include Colin Firth, Sir Anthony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton.
