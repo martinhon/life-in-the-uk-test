@@ -47,7 +47,7 @@ Life in the United Kingdom
 | 1707                | Act of Union | Kingdom of Great Britain is created joining Scotland |
 | 1714                | **King George I** | a german is king, because of his poor english elects Robert Walpole as first Prime Minister |
 | 1727               | **King George II** | the son of King George I becomes king |
-| 1745-46           | Bonnie Prince Charlie | tries to get the throne with scots' help but looses at the battle of Culloden, after which Highland Cleareances |
+| 1745-46           | Charles Edward Stuart (Bonnie Prince Charlie) | landed in Scotland and supported by clansmen from Scottish highlands. George II defeats Charles  at the Battle of Culloden. A rocess known as Highland Clearances |
 | 1776                | American colonies independence | 13 colonies declare independence from UK | 
 | 1783                | Britain recognise independence | |
 | _1789_            | Revolution in France | Napoleon starts war |
