@@ -75,7 +75,8 @@ Life in the United Kingdom
 | 1902                | Motor-car racing in the UK started |
 | 1910                | **George V** | son of Edward VII becomes king |
 | 1914-18          | WW1 | assassination of Austrian Archduke Franz Ferdinand |
-| 1918                | end of the WW1 on 11th of November, also women can vote at the age of 30 |
+| 1916                | Battle of the Somme WW1.  | British forces suffered 60,000 causalities on the first day. |
+| 1918                | end of the WW1 on 11th of November | also women can vote at the age of 30 |
 | 1922                | Ireland becomes 2 countries / BBC radio | 6 protestant countries the rest is Irish Free State |
 | 1928                | women can vote at the same age of men, 21 |
 | 1929                | Great Depression | |
