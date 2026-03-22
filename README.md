@@ -40,7 +40,7 @@ Life in the United Kingdom
 | 1646                | End of Civil war | **Battle of Marston Moor** (also **Battle of Naseby**). Parliament defeats the Charles I |
 | 1649                | Britain republic. **Oliver Coromwell** | Charles I is executed |
 | 1650                | **Battles of Dunbar and Worcester** | Cromwell defeated Scots who had not agreed to the execution of Charles I, Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe |
-| 1656                | fist Jews in England | since the Middle Ages |
+| 1656                | first Jews to Britan | The first Jews to come to Britain since the Middle Ages settled in London in 1656 |
 | 1658                | Lord Protector Oliver Cromwell dies | |
 | 1660                | Restoration **Charle II**  | Charle II comes back, ends of 11 years of republic, The Restoration |
 | 1665                | Plague | |
