@@ -12,14 +12,21 @@ Life in the United Kingdom
 | 43AD                 | Successful Roman invasion | Emperor Claudius succesfully invaded Britain. Boudicca was a tribal leader who fought the Roman, Emperor Hadrain built a wall|
 | 410                  | Romans end | Roman army leaves to defend Rome and never returns |
 | 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great |
-| 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror defeats Harold.  Battle of Hastings and invades Britain |
+| 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror defeats Harold.  **Battle of Hastings** and invades Britain |
+| 1087                | **William II (Rufus)** |  |
+| 1100                | **Henry I** |  |
 | 1215                | Magna Carta | The King is subject to the Law | 
 | 1284                | Statute of Rhuddlan | Kind Edward I annexes Wales |
-| 1314                | Battle of Bannockburn | Robert the Bruce (scots) defeats England |
+| 1314                | **Battle of Bannockburn** | Robert the Bruce, King of Scotland, defeated the English, maintaining Scottish independence |
+| 1135 -              | Stephen,... | Between 1135 and 1327, the Kings of England were primarily from the House of Blois and the House of Plantagenet (including the Angevin line) |
+| 1327                | Edward III |  |
 | 1348                | Black Death | kills 1/3 of population. After which new class "the gentry" appeared, owners of large areas of land  |
-| 1415                | Battle of Agincourt | Henry V defeats France during the 100 years war against France |
+| 1377                | Richard II |  |
+| 1399                | Henry IV |  |
+| 1413                | **Henry V** |  |
+| 1415                | **Battle of Agincourt** | Henry V's outnumbered English army defeated the French during the Hundred Years' War |
 | 1455                | start of civil war | houses Lanacaster (red rose) and York (white rose) |
-| 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, **Henry VII Tudor king**, end of Middle Ages, start of the Reformation |
+| 1485                | End War of the Roses | **Battle of Bosworth Field**, Lancaster wins over York, **Henry VII Tudor king**, end of Middle Ages, start of the Reformation |
 | 1509                | **Henry VIII** | son of Henry VII becomes king |
 | 1547                | **Edward VI** |  |
 | 1553                | **Mary I** | Bloody Mary |
@@ -30,30 +37,31 @@ Life in the United Kingdom
 | 1605                | Guy Fawkes | with catholics tries to bomb the Parliament to kill the protestant king on 5th of November |
 | 1625                | **Charle I** | The son of James I, Charle becomes King |
 | 1642                | Civil war | after Charles I asked Parliament for money, Cavaliers(king) and Roundheads(parliament) |
-| 1646                | End of Civil war | Battle of Marston Moor (also Battle of Naseby). Parliament defeats the CharlesI |
+| 1646                | End of Civil war | **Battle of Marston Moor** (also **Battle of Naseby**). Parliament defeats the Charles I |
 | 1649                | Britain republic. **Oliver Coromwell** | Charles I is executed |
+| 1650                | **Battles of Dunbar and Worcester** | Cromwell defeated Scots who had not agreed to the execution of Charles I, Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe |
 | 1656                | fist Jews in England | since the Middle Ages |
 | 1658                | Lord Protector Oliver Cromwell dies | |
-| 1660                | Restoration **Charle II**  | (Charles II comes back. He hides in an oak tree after defeated in Battle of Dunbar in Worcester), ends of 11 years of republic, The Restoration |
+| 1660                | Restoration **Charle II**  | Charle II comes back, ends of 11 years of republic, The Restoration |
 | 1665                | Plague | |
 | 1666                | Great Fire | |
 | 1679            | Habeas Corpus Art | you must present the person in court |
 | _1685_            | **James II** | was James VII of Scotland, becomes king after Charles II dies |
 | 1688                | Glorious Revolution **William and Mary** | William of Orange (William III) and Mary becomes Kings. No fighting | 
 | 1689                | Bill of Rights | confirm the rights of Paliament, limits of King's power, constitutional monarchy |
-| _1690_            | Battle of Byone | William III defeats James II. James flees to France with Jacobites supporters |
+| _1690_            | **Battle of Byone** | William III defeats James II. James flees to France with Jacobites supporters |
 | 1695                | Newspaper | can operate without government licence |
 | 1702               | **Queen Ann** | Anne becomes Queen upnon the dealth of her brother-in-law King William III |
 | 1707                | Act of Union | Kingdom of Great Britain is created joining Scotland |
 | 1714                | **King George I** | a german is king, because of his poor english elects Robert Walpole as first Prime Minister |
 | 1727               | **King George II** | the son of King George I becomes king |
-| 1745-46           | Charles Edward Stuart (Bonnie Prince Charlie) | landed in Scotland and supported by clansmen from Scottish highlands. George II defeats Charles  at the Battle of Culloden. A process known as Highland Clearances |
+| 1745-46           | Charles Edward Stuart (Bonnie Prince Charlie) | landed in Scotland and supported by clansmen from Scottish highlands. George II defeats Charles  at the **Battle of Culloden**. A process known as Highland Clearances |
 | 1776                | American colonies independence | 13 colonies declare independence from UK | 
 | 1783                | Britain recognise independence | |
 | _1789_            | Revolution in France | Napoleon starts war |
 | _1801_            | Ireland unifies with UK | Union Flag |
-| 1805                | Battle of Trafalgar | Lord Horatio Nelson (Admiral Nelson)  defeats spanish fleet and France. Nelson dies |
-| 1815                | Battle of Waterloo | Duke of Wellington defeats Napoleon | 
+| 1805                | **Battle of Trafalgar** | Lord Horatio Nelson (Admiral Nelson)  defeats spanish fleet and France. Nelson dies |
+| 1815                | **Battle of Waterloo** | Duke of Wellington defeats Napoleon | 
 | 1833                | Emancipation Act | End of Slavery | 
 | 1837                | **Queen Victoria** | at the age of 18 will rule for 64 years Victorian age |
 | 1840                | Punch Magazine | satirical magazine |
@@ -77,7 +85,7 @@ Life in the United Kingdom
 | 1935                | invention of Radar | by Sir Robert Watson-Watt |
 | 1936                | BBC first TV service, **Edward VIII** quickly then **George VI** | sons of George V |
 | 1939                | WW2 | Germany invades Poland |
-| 1940                | Battle of Britain | aerial battle to fight "The Blitz" of german bombing UK |
+| 1940                | **Battle of Britain** | aerial battle to fight "The Blitz" of german bombing UK |
 | _1940-44_     | The Dunkirk Spirit | evacuation of British and French troops as France falls, rescuing 300,000 people |
 | 1944                | D-Day | Allies in Normandy to attack Germans |
 | 1945                | end of WW2 | German defeat, atom bomb in Japan|
@@ -122,8 +130,8 @@ Life in the United Kingdom
 | William (Duke of Normandy) | Defeats saxon King Harold, **Doomsday Book** | 1066 |
 | King John | **Magna Carta** | 1215 |
 | Kind Edward I | **Statute of Rhuddlan** | 1284 |
-| Robert the Bruce | the Scottish led by Robert the Bruce defeats english Battle of Bannockburn , Scotland remained unconquered by the English | 1314 |
-| King Henry V | beats French in Battle of Agincourt | 1415 |
+| Robert the Bruce | the Scottish led by Robert the Bruce defeats english. **Battle of Bannockburn** , Scotland remained unconquered by the English | 1314 |
+| King Henry V | beats French in **Battle of Agincourt** Hundred Year's war | 1415 |
 | Henry Tudor VII | wins War of the Roses | 1485 |
 | Henry VIII | 6 wives (Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, Catherine Perr) | 1509-47 |
 | Edward VI | strongly protestant, "Book of Common Prayer" | - |
