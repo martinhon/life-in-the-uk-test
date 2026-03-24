@@ -44,7 +44,7 @@ Life in the United Kingdom
 | 1660                | Restoration **Charles II**  | Charles II comes back, ends of 11 years of republic, The Restoration |
 | 1665                | Plague | |
 | 1666                | Great Fire | |
-| 1679            | Habeas Corpus Art | you must present the person in court |
+| 1679            | Habeas Corpus Act | you must present the person in court |
 | _1685_            | **James II** |Brother of Charles II,  James VII of Scotland, becomes king after Charles II dies. He is a Roman Catholic, did not seek agreement with Parliament |
 | 1688                | Glorious Revolution **William and Mary** | William of Orange (William III in England, Wales and Ireland; and William II of Scotland) becomes King and ruled jointly with Mary. Mary was elder daughter of James II .  No fighting | 
 | 1689                | Bill of Rights | confirm the rights of Paliament, limits of King's power, constitutional monarchy |
