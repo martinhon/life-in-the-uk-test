@@ -168,7 +168,7 @@ Life in the United Kingdom
 | R. A. Butler |*The Butler Act*, free secondary education | 1902-82 |
 | Dylan Thomas | welsh poet, *Under Milk Wood*and *Do Not Go Gentle into That Good Night* | 1914-53 |
 | John Logie Baird | scotsman to develop **TV** in 1920 and first broadcast London to Glasgow in 1932 | 1888-1946 |
-| Sir Rober Watson-Watt | develops **radar** 1935 | 1892-1973 |
+| Sir Robert Watson-Watt | develops **radar** 1935 | 1892-1973 |
 | Sir Bernard Lovell | astronomy discoveries and build a radio telescope at Jodrell Bank | 1913-2012 |
 | Alan Turing | **Turing Machine** | 1912-54 |
 | John Macleod | co-discoverer of **insulin** to treat diabetes | 1876-1935 |
@@ -192,26 +192,27 @@ Life in the United Kingdom
 | Name | Achievement |
 | --- | --- |
 | Sir Roger Bannister | first men to **run** a 1 mile in less than 4 minutes |
-| Sir Jackie Stewart | scottish racing driver won Formula 1 3 times |
+| Dame Kelly Holmes | won 2 gold medals for **running** in 2004 Olympics |
+| Mo Farah | won gold medals in 2012 Olympics , first briton **runner** to win a medal in 10,000 metres |
 | Bobby Moore | captain the English **football** team winning the 1966 world cup |
-| Sir Ian Botham | capitan of English Cricket team and winner of cricket records |
+| Sir Ian Botham | capitan of English **Cricket team** and winner of cricket records |
 | Jayne Torvill and Christopher Dean | won gold medal in **ice dancing** at Olympics in 1984 |in 5 consecutive Olympics |
 | Sir Steve Redgrave | won gold medals in **rowing** in 5 consecutive Olympics |
-| Baroness Tanni Grey-Thompson | **Paralympian** **wheelchair** records, 11 gold medals |
-| Dame Kelly Holmes | won 2 gold medals for running in 2004 Olympics |
-| Dame Ellen MacArthur | yachtswoman fastest person to sail around the world in 2014 |
-| Sir Chris Hoy | Scottish cyclist that won 6 gold and 1 silver Olympic medals and 11 world championships |
-| David Weir | **Paralympian** with **wheelchair** has won 6 gold medals and London marathon 6 times |
-| Sir Bradley Wiggings | cyclist, first briton to win the tour de france in 2012, won 7 olympic medals including golds in 2004,2008 and 2012 |
-| Mo Farah | won gold medals in 2012 Olympics , first briton to win a medal in 10,000 metres |
-| Jessica Ennis | won 2012 Olympic heptathlon |
+| Sir Chris Hoy | Scottish **cyclist** that won 6 gold and 1 silver Olympic medals and 11 world championships |
+| Sir Bradley Wiggings | **cyclist**, first briton to win the **tour de france** in 2012, won 7 olympic medals including golds in 2004,2008 and 2012 |
+| Jessica Ennis | won 2012 Olympic **heptathlon** |
+| Mary Peters | Olympic gold medal in the **pentathlon** in 1972. Olympic athlete who promoted sport and tourism in Northern Ireland. |
 | Andy Murray | Scottish tennis player won men's singles in US open in 2012, he won gold and silver medals at the Olympics |
+| Baroness Tanni Grey-Thompson | **Paralympian** **wheelchair** records, 11 gold medals |
+| David Weir | **Paralympian** with **wheelchair** has won 6 gold medals and London marathon 6 times |
 | Ellie Simmonds | **Paralympian** won gold medals for **swimming** at 2008 and 2012 Paralympic Games, was the youngest member at the 2008 Games |
-| Sir Francis Chichester | first person to sail single-handed around the world in 1966/67 |
-| Sir Robin Knox-Johnston | first person to sail single-handed around the world without stopping |
-| Damon Hill | won the Formula 1 World Championship, motor sport |
-| Lewis Hamilton | won the Formula 1 World Championship, motor sport |
-| Jensen Button | won the Formula 1 World Championship, motor sport |
+| Dame Ellen MacArthur | yachtswoman fastest person to **sail** around the world in 2014 |
+| Sir Francis Chichester | first person to **sail** single-handed around the world in 1966/67 |
+| Sir Robin Knox-Johnston | first person to **sail** single-handed around the world without stopping in 1968/69 (two years later|
+| Sir Jackie Stewart | scottish racing driver won **Formula 1** world championship  3 times, motor sport |
+| Damon Hill | won the **Formula 1** World Championship, motor sport |
+| Lewis Hamilton | won the **Formula 1** World Championship, motor sport |
+| Jensen Button | won the **Formula 1** World Championship, motor sport |
 
 ### Sport facts ###
 * The UK has hosted the Olympic Games on three occasions: **1908, 1948 and 2012** 
@@ -250,8 +251,8 @@ Life in the United Kingdom
 | --- | --- |
 | William the Conqueror | ordered to build the Tower of London |
 | Sir Christopher Wren | **St Paul's Cathedral** |
-| Robert Adam | Scottish architect Dumfries House in Scotland, influences the Royal Crescent in Bath |
 | Sir Edwin Lutyens | designed New Delhi, responsible for the memorial **Cenotaph** in Whitehall |
+| Robert Adam | Scottish architect Dumfries House in Scotland, influences the Royal Crescent in Bath |
 | Sir Norman Foster | modern British architect |
 | Lord (Richard) Rogers | modern British architect |
 | Dame Zaha Hadid | modern British architect |
@@ -278,25 +279,22 @@ Life in the United Kingdom
 | Seamus Heaney | poet, Nobel prize |
 | Harold Pinter | playwright, Nobel prize |
 | Agatha Christie | wrote detective stories |
-| Ian Fleming | stories that introduce James Bond 2003 |
-| J.R.R. Tolkien | *The Lord of the Rings*  the country's best loved novel |
-| Jane Austen | English novelist. *Pride and Prejudice* and *Sense and Sensibility* |
-| Charles Dickens | wrote very famous novels like *Oliver Twist* and *Great Expectations* | 
-| Robert Luis Stevenson | books like *Treasure Island*, *Kidnapped* and *Dr Jekyll and Mr Hyde* |
-| Thomas Hardy | author and poet, known for *Far from the Madding Crowd* and *Jude the Obscure* |
-| Sir Arthur Conan Doyle | Scottish doctor and writer best know for stories about *Sherlock Holmes* |
+| Ian Fleming | stories that introduce **James Bond** 2003 |
+| J.R.R. Tolkien | **The Lord of the Rings**  the country's best loved novel |
+| Jane Austen | English novelist. **Pride and Prejudice and Sense and Sensibility** |
+| Geoffery Caucher | Wrote poems called the **Canterbury Tales**, telling of Pilgrims that went from London to Canterbury |
+| Sir Arthur Conan Doyle | Scottish doctor and writer best know for stories about **Sherlock Holmes** |
+| William Shakespeare | playwright and actor and wrote poems and plays (sonnets, poems of 14 lines) **A midsummer Night's Dream, Hamlet, Macbeth, Romeo and Juliet** |
+| William Wordsworth | poet inspired by nature, **The Daffodils** |
+| J K Rowling | wrote **Harry Potter** series |
 | Evelyn Waugh | wrote satirical novels including *Decline and Fall* and *Scoop*, *Brideshead Revisited* |
 | Sir Kingsley Amis | English novelist and poet, wrote more than 20 novels, *Lucky Jim* |
 | Graham Greene | wrote novels influenced by religious beliefs, *The Heart of the Matter*, *The Honorary Consul*, *Brighton Rock*, *Our Man in Havana* |
-| J K Rowling | wrote *Harry Potter* series |
 | Ian McEwan | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
 | Hilary Mantel | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
 | Julian Barnes | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
 | - | *BeoWulf* Anglo-Saxon poem |
-| Geoffery Caucher | Wrote poems called the *Canterbury Tales*, telling of Pilgrims that went from London to Canterbury |
 | John Milton | protestant poems inspired by religious views, *Paradise is Lost* |
-| William Shakespeare | playwright and actor and wrote poems and plays (sonnets, poems of 14 lines) *A midsummer Night's Dream*, *Hamlet*, *Macbeth*, *Romeo and Juliet* |
-| William Wordsworth | poet inspired by nature, *The Daffodils* |
 | Sir Walter Scott | poems inspired by Scotland |
 | Robert Browning | *Home Thoughts from Abroad* |
 | Lord Byron | *She Walks in Beauty* |
@@ -304,10 +302,23 @@ Life in the United Kingdom
 | Wilfred Owen | *Anthem for Doomed Youth*, also wrote about his experiences during the war |
 | Sigfried Sassoon | wrote about his experiences during the war |
 | John Barbour | scottish poet |
+| Charles Dickens | wrote very famous novels like *Oliver Twist* and *Great Expectations* | 
+| Robert Luis Stevenson | books like *Treasure Island*, *Kidnapped* and *Dr Jekyll and Mr Hyde* |
+| Thomas Hardy | author and poet, known for *Far from the Madding Crowd* and *Jude the Obscure* |
 
 ### Literature Facts ###
 
 * in 2003 JRR Tolkien's *Lords of the Rings* is voted country's most loved novel
+
+### Theatre ###
+
+| Name | Achievement |
+| --- | --- |
+| Dame Agatha Christie | **The Mousetrap**, longest-running play in history |
+| Gilbert & Sullivan | famous comic operas **HMS Pinafore, The Pirates of Penzance, The Mikado** |
+| Andrew Lloyd Webber & Tim Rice| successful musicals **Cats, The Phantom of the Opera, Jesus Christ Superstar, Evita** |
+| Laurence Olivier| renowned Shakespearean actor; namesake of the **Laurence Olivier Awards** in London |
+
 
 ### Cinema ###
 
