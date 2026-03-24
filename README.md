@@ -199,7 +199,7 @@ Life in the United Kingdom
 | Jayne Torvill and Christopher Dean | won gold medal in **ice dancing** at Olympics in 1984 |in 5 consecutive Olympics |
 | Sir Steve Redgrave | won gold medals in **rowing** in 5 consecutive Olympics |
 | Sir Chris Hoy | Scottish **cyclist** that won 6 gold and 1 silver Olympic medals and 11 world championships |
-| Sir Bradley Wiggings | **cyclist**, first briton to win the **tour de france** in 2012, won 7 olympic medals including golds in 2004,2008 and 2012 |
+| Sir Bradley Wiggins | **cyclist**, first briton to win the **tour de france** in 2012, won 7 olympic medals including golds in 2004,2008 and 2012 |
 | Jessica Ennis | won 2012 Olympic **heptathlon** |
 | Mary Peters | Olympic gold medal in the **pentathlon** in 1972. Olympic athlete who promoted sport and tourism in Northern Ireland. |
 | Andy Murray | Scottish tennis player won men's singles in US open in 2012, he won gold and silver medals at the Olympics |
